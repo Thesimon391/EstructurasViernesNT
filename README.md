@@ -1,0 +1,2 @@
+# EstructurasViernesNT
+Sigamos practicando
