@@ -1,0 +1,11 @@
+#Crear una lista de 30 estudiantes 
+
+
+
+#crear una lista de 20 calificaciones de eficiencia
+#crear una lista de 20 calificaciones de apariecia
+#crear una lista de 20 calificaciones de estabilidad
+#calcular el promedio de las notas
+#evaluar la bicicleta ganadora
+
+
